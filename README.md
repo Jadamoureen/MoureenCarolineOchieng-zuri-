@@ -40,6 +40,11 @@ __Run the server__
 
 ```python manage.py runserver```
 
+<img
+  src="https://postimg.cc/8JYhN93R"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 ![Screenshot-2022-06-13-at-12-22-41.png](https://postimg.cc/8JYhN93R)
 ![Django](https://postimg.cc/nsPyfcH0)
 
