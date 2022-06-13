@@ -41,7 +41,7 @@ __Run the server__
 ```python manage.py runserver```
 
 <img
-  src="/images/server.png"
+  src="/MoureenCarolineOchieng-zuri-/moureencarolineochieng/server.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
