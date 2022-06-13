@@ -8,35 +8,43 @@
 
 __Navigate to where you want to store your code__.
 _Create new directory_
+
 ```mkdir my_project && cd my_project```
 
 __Install virtual environment__
+
 ```pip install virtualenv```
 
 __Start virtual evironment (named zurienv)__
+
 ```virtualenv zurienv```
 
 __Activate virtual environment__
 _For MAC OS_
+
 ```source zurienv/bin/activate```
 
 _For windows OS_
+
 ```source zurienv/Scripts/activate```
 
 __Install django__
+
 ```pip install django```
 
 __Start your project__
+
 ```django-admin startproject moureencarolineochieng```
 
 __Run the server__
+
 ```python manage.py runserver```
 
-![Server running](https://{postimg.cc/8JYhN93R})
-![Django](https://{postimg.cc/nsPyfcH0})
+![Screenshot-2022-06-13-at-12-22-41.png](https://postimg.cc/8JYhN93R)
+![Django](https://postimg.cc/nsPyfcH0)
 
 _Error Warning_
-![Unapplied migration](https://{postimg.cc/dLRDsgZ8})
+![Unapplied migration](https://postimg.cc/dLRDsgZ8)
 
 ```python manage.py migrate```
 
