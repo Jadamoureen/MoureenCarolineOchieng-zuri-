@@ -41,10 +41,10 @@ __Run the server__
 ```python manage.py runserver```
 
 ![server](server.png)
-![Django](https://postimg.cc/nsPyfcH0)
+![Django](django.png)
 
 _Error Warning_
-![Unapplied migration](https://postimg.cc/dLRDsgZ8)
+![migration](migration.png)
 
 ```python manage.py migrate```
 
