@@ -40,7 +40,7 @@ __Run the server__
 
 ```python manage.py runserver```
 
-![server.png](/MoureenCarolineOchieng-zuri-/moureencarolineochieng/server.png)
+![server](server.png)
 ![Django](https://postimg.cc/nsPyfcH0)
 
 _Error Warning_
